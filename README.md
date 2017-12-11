@@ -1,6 +1,6 @@
 # CNN for facial keypoints detection
 
-This repo is a study of using OpenCV to pre-process and detect faces, and training a Convolutional Neural Network to detect facial keypoints. Facial keypoints include points around the eyes, nose, and mouth on any face and are used in many applications such as facial tracking and emotion recognition. The jupyter notebook allows input of an image containing faces and identify the location of each face and their facial keypoints. This is adapted from [Udacity AIND-CV-FacialKeypoints](git clone https://github.com/udacity/AIND-CV-FacialKeypoints.git).
+This repo is a study of using OpenCV to pre-process and detect faces, and training a Convolutional Neural Network to detect facial keypoints. Facial keypoints include points around the eyes, nose, and mouth on any face and are used in many applications such as facial tracking and emotion recognition. The jupyter notebook allows input of an image containing faces and identify the location of each face and their facial keypoints. This is adapted from [Udacity AIND-CV-FacialKeypoints](https://github.com/udacity/AIND-CV-FacialKeypoints.git).
 
 
 ## Prerequisites
@@ -20,5 +20,5 @@ This repo is a study of using OpenCV to pre-process and detect faces, and traini
 
 ## Resources
 
-- [Udacity AIND-CV-FacialKeypoints](git clone https://github.com/udacity/AIND-CV-FacialKeypoints.git)
+- [Udacity AIND-CV-FacialKeypoints](https://github.com/udacity/AIND-CV-FacialKeypoints.git)
 
